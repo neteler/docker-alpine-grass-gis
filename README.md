@@ -1,9 +1,11 @@
-[![Docker Stars](https://img.shields.io/docker/stars/zarch/alpine-grass-gis.svg?style=flat-square)](https://hub.docker.com/r/zarch/alpine-grass-gis/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/zarch/alpine-grass-gis.svg?style=flat-square)](https://hub.docker.com/r/zarch/alpine-grass-gis/)
-[![License](https://img.shields.io/github/license/zarch/docker-alpine-grass-gis.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Docker Stars](https://img.shields.io/docker/stars/neteler/docker-alpine-grass-gis.svg?style=flat-square)](https://hub.docker.com/r/neteler/docker-alpine-grass-gis/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/neteler/docker-alpine-grass-gis.svg?style=flat-square)](https://hub.docker.com/r/neteler/docker-alpine-grass-gis/)
+[![License](https://img.shields.io/github/license/neteler/docker-alpine-grass-gis.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
 # Docker GRASS GIS (alpine linux)
+
+Credits to https://github.com/zarch/docker-alpine-grass-gis
 
 Dockerfile with an [Alpine Linux](https://www.alpinelinux.org/) image with [GRASS GIS](https://grass.osgeo.org/) and [grass-session](https://github.com/zarch/grass-session/).
 
